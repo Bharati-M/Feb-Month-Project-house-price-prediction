@@ -6,6 +6,7 @@ EDA and Linear Regression project for predicting house prices using the King Cou
 ## Dataset used
 - <a
   href = "https://www.kaggle.com/datasets/harlfoxem/housesalesprediction">Dataset</a>
+  
 ## process
 - Dataset Collection: The King County House Sales dataset was used for this project, which contains information about house features such as price, bedrooms, bathrooms, living area, and other attributes.
 - Data Loading: The dataset was loaded into Python using the Pandas library for further analysis.
@@ -26,6 +27,7 @@ EDA and Linear Regression project for predicting house prices using the King Cou
 - Scikit-learn
 - Google Colab
 ## Results
-<src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression/blob/main/Project%20Screenshots/Dataset%20Preview.png"/>
+<img 
+src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression/blob/main/Project%20Screenshots/Dataset%20Preview.png"/>
 ## Conclusion
 This project performed Exploratory Data Analysis on the King County house dataset and built a Linear Regression model to predict house prices. The model was evaluated using R², MAE, and MSE, demonstrating how data analysis and machine learning can be used for price prediction.
