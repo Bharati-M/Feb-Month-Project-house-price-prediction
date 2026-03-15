@@ -17,5 +17,13 @@ EDA and Linear Regression project for predicting house prices using the King Cou
 - Model Training: A Linear Regression model was trained using the selected features to predict house prices.
 - Model Prediction: The trained model was used to predict house prices on the test dataset.
 - Model Evaluation: The model performance was evaluated using R² Score, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
 ## Conclusion
 This project performed Exploratory Data Analysis on the King County house dataset and built a Linear Regression model to predict house prices. The model was evaluated using R², MAE, and MSE, demonstrating how data analysis and machine learning can be used for price prediction.
