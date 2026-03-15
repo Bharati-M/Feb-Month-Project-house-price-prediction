@@ -43,6 +43,9 @@ src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression
 src ="https://github.com/Bharati-M/house-price-prediction-eda-linear-regression/blob/main/Project%20Screenshots/Feature%20Correlation%20Heatmap.png"/>
 
 <img
+src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression/blob/main/Project%20Screenshots/Living%20Area%20vs%20Price%20Scatter%20Plot.png"/>
+
+<img
 src = "
 ## Conclusion
 This project performed Exploratory Data Analysis on the King County house dataset and built a Linear Regression model to predict house prices. The model was evaluated using R², MAE, and MSE, demonstrating how data analysis and machine learning can be used for price prediction.
